@@ -4,12 +4,6 @@
 
 **Developer · Software · Technology**
 
-<br>
-
-> Building software and experimenting with technology.
-
-<br>
-
 [GitHub](https://github.com/SEU_USUARIO) · [Discord](https://discord.com/)
 
 <br><br>
