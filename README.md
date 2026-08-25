@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   
 <img src="https://i.pinimg.com/originals/47/12/89/471289cde2490c80f60d5e85bcdfb6da.gif" width="400">
 <img src="https://media.tenor.com/9hd9gB_WFqIAAAAM/sniper-pubg.gif" width="370">
