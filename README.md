@@ -1,105 +1,53 @@
-# 👋 Olá, eu sou Neandro
-
 <div align="center">
 
-### Desenvolvedor • Software • Tecnologia
+# NEANDRO
 
-Criando projetos, ferramentas e experiências focadas em **performance, tecnologia e desenvolvimento**.
+**Developer · Software · Technology**
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/)
+[GitHub](https://github.com/SEU_USUARIO) · [Discord](https://discord.com/)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header"/>
 
 </div>
 
----
+## About
 
-## 🚀 Sobre mim
+> Building software and experimenting with technology.
 
-* 💻 Desenvolvedor focado em software e ferramentas
-* ⚡ Interesse em **performance, otimização e engenharia de software**
-* 🛠️ Sempre trabalhando em novos projetos
-* 🧠 Explorando novas tecnologias e soluções
-* 🎯 Buscando transformar ideias em projetos funcionais
+<br>
 
----
+## Projects
 
-## 🧰 Tecnologias
+**Radium**
+Software and tools.
 
-<div align="center">
+**MEGABRAIN**
+Experimental software protection project.
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-</div>
+<br>
 
----
+## Tech
 
-## 📌 Projetos
+`C++` `C#` `Python` `JavaScript` `Windows`
 
-### 🔴 Radium
-
-Projeto focado no desenvolvimento de ferramentas e soluções de software.
-
-**Tecnologias:** C++ • Windows • Software Development
-
----
-
-### 🧠 MEGABRAIN
-
-Projeto experimental voltado para **proteção, transformação e engenharia de software**.
-
-**Tecnologias:** C++ • x64 • Windows
-
----
-
-## 📊 GitHub
+<br>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+### ☢️
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true"/>
+<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
+  <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" width="700">
+</a>
 
-</div>
+<br>
 
----
+<sub>Video · Nuclear explosion</sub>
 
-## 🔥 Atividade
+<br><br>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO\&theme=dark\&hide_border=true)
-
-</div>
-
----
-
-## 📈 Contribuições
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO\&theme=github-dark\&hide_border=true)](https://github.com/SEU_USUARIO)
-
-</div>
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-Se quiser trocar uma ideia ou falar sobre algum projeto, entre em contato.
-
-**Discord:** `SEU_DISCORD`
-
-**GitHub:** [@SEU_USUARIO](https://github.com/SEU_USUARIO)
-
-</div>
-
----
-
-<div align="center">
-
-### 「 Code. Create. Improve. 」
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true" width="400">
 
 </div>
