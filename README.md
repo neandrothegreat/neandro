@@ -1,7 +1,7 @@
 <div align="center">
   
 <img src="https://i.pinimg.com/originals/47/12/89/471289cde2490c80f60d5e85bcdfb6da.gif" width="400">
-<img src="https://media.tenor.com/9hd9gB_WFqIAAAAM/sniper-pubg.gif" width="370">
+<img src="https://i.imgur.com/HzMVeIj.gif?noredirect" width="370">
 <img src="https://images.steamusercontent.com/ugc/874124432165858935/EAEC987B2BFBE4B423A931A3ADF2ACFFCB889B99/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="370">
 <img src="https://giffiles.alphacoders.com/901/90108.gif" width="400">
 <img src="https://www.tumblr.com/um-poeta-disse/142540892278/ak-47" width="400">
