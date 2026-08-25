@@ -8,6 +8,6 @@
 <img src="https://i0.wp.com/bestanimations.com/Military/Planes/jet-fighter-pilot-animated-gif-1.gif" width="400">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUydXl3aGFwNXp6Mzl3a3ltMmF1NHYzZmxjYWF0OG44eWZpb2NpdmVoNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UfWlHmnCjSmSk/giphy.gif" width="400">
 <img src="https://picx.zhimg.com/50/v2-ee999cbd2d020966ddda91c28b325b97_720w.gif?source=1def8aca" width="400">
-<img src="https://www.reddit.com/r/powerscales/comments/1hnqrr6/how_would_our_modern_world_fair_against_the/" width="400">
+<img src="https://i.redd.it/y5qdzmenwg9e1.gif" width="400">
 
 </div>
