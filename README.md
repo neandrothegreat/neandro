@@ -9,10 +9,4 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUydXl3aGFwNXp6Mzl3a3ltMmF1NHYzZmxjYWF0OG44eWZpb2NpdmVoNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UfWlHmnCjSmSk/giphy.gif" width="400">
 <img src="https://picx.zhimg.com/50/v2-ee999cbd2d020966ddda91c28b325b97_720w.gif?source=1def8aca" width="400">
 
-<img src="https://media.tenor.com/9hd9gB_WFqIAAAAM/sniper-pubg.gif" width="400">
-<img src="https://i.giphy.com/media/FgHrDCXxaWplx9bYRo/giphy.gif" width="400">
-<img src="https://i.giphy.com/media/UfWlHmnCjSmSk/giphy.gif" width="400">
-<img src="https://i.giphy.com/media/Aj0T4Pymx6n6r7pa8S/giphy.gif" width="400">
-<img src="https://i.giphy.com/media/9hd9gB_WFqIAAAAM/giphy.gif" width="400">
-
 </div>
